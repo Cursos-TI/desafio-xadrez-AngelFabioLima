@@ -1,6 +1,9 @@
 #include <stdio.h>
-   // Nível Novato
-    int main() {
+
+// Desafio de Xadrez - MateCheck
+      // Nível Novato
+    
+int main() {
        //  Movimentação Torre 
        // Sugestão: Utilize uma estrutura de repetição para simular a movimentação da Torre
     printf("Movimento da Torre:\n");
@@ -8,6 +11,7 @@
     {
         printf("Direita\n");
     }
+
     //  Movimentação do Bispo
     // Sugestão: Utilize uma estrutura de repetição para simular a movimentação do Bispo em diagonal.
     printf("\nMovimento do Bispo:\n");
