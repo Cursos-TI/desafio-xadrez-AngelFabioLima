@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-// Funções de movimento
+// Movimento
 
-// ---- NÍVEL NOVATO ----
+//  NÍVEL NOVATO 
 // A Torre anda em linha reta.
 void moverTorreNovato() {
     printf("\nMovimento da Torre (5 casas para a Direita):\n");
@@ -50,7 +50,7 @@ void moverCavaloAventureiro() {
     }
 }
 
-// ---- NÍVEL MESTRE ----
+//  NÍVEL MESTRE
 
 // Torre (5 casas para a direita usando recursão)
 void moverTorreMestre(int casas) {
